@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Introduction to Fashion Design",
+            "slug": "introduction-to-fashion-design",
+            "description": "Learn the fundamentals of fashion design, including sketching, fabric selection, and garment construction.",
+            "price": 99.99,
+            "instructor": "Jane Doe",
+            "isFeatured": true,
+            "image": "https://example.com/images/fashion-design.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Water Treatment Essentials",
+            "slug": "water-treatment-essentials",
+            "description": "A comprehensive guide to water purification, filtration techniques, and chemical treatments.",
+            "price": 149.99,
+            "instructor": "John Smith",
+            "isFeatured": false,
+            "image": "https://example.com/images/water-treatment.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Sustainable Textile Production",
+            "slug": "sustainable-textile-production",
+            "description": "Explore sustainable practices in textile manufacturing, including eco-friendly dyes and waste management.",
+            "price": 129.99,
+            "instructor": "Emily Brown",
+            "isFeatured": true,
+            "image": "https://example.com/images/sustainable-textiles.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Advanced Chemical Engineering",
+            "slug": "advanced-chemical-engineering",
+            "description": "An in-depth course on chemical processes, industrial applications, and safety measures.",
+            "price": 199.99,
+            "instructor": "Dr. Alan Carter",
+            "isFeatured": false,
+            "image": "https://example.com/images/chemical-engineering.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Digital Marketing for Beginners",
+            "slug": "digital-marketing-beginners",
+            "description": "Learn SEO, social media marketing, and paid advertising strategies to grow your business online.",
+            "price": 89.99,
+            "instructor": "Sophia Williams",
+            "isFeatured": true,
+            "image": "https://example.com/images/digital-marketing.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Garment Manufacturing Process",
+            "slug": "garment-manufacturing-process",
+            "description": "Understand the complete lifecycle of garment production from design to finished product.",
+            "price": 159.99,
+            "instructor": "Michael Lee",
+            "isFeatured": false,
+            "image": "https://example.com/images/garment-manufacturing.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Textile Chemistry and Dyes",
+            "slug": "textile-chemistry-dyes",
+            "description": "Dive deep into the chemistry behind textile processing, dyes, and finishing techniques.",
+            "price": 139.99,
+            "instructor": "Dr. Rachel Green",
+            "isFeatured": true,
+            "image": "https://example.com/images/textile-chemistry.jpg"
+        },
+        {
+            "id": 8,
+            "title": "E-commerce Business Strategies",
+            "slug": "ecommerce-business-strategies",
+            "description": "Master the art of running a successful online store, from product selection to customer service.",
+            "price": 179.99,
+            "instructor": "Daniel Adams",
+            "isFeatured": false,
+            "image": "https://example.com/images/ecommerce.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Sewing and Pattern Making",
+            "slug": "sewing-pattern-making",
+            "description": "Learn sewing techniques, pattern drafting, and fitting adjustments for custom garments.",
+            "price": 119.99,
+            "instructor": "Laura Mitchell",
+            "isFeatured": true,
+            "image": "https://example.com/images/sewing-patterns.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Industrial Water Management",
+            "slug": "industrial-water-management",
+            "description": "Understand water usage, treatment, and recycling techniques in industrial settings.",
+            "price": 189.99,
+            "instructor": "Dr. Kevin Brown",
+            "isFeatured": false,
+            "image": "https://example.com/images/industrial-water.jpg"
+        }
+    ]
+}
