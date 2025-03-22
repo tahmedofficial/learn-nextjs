@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
-import { HoveredLink, Menu, MenuItem, ProductItem } from "./ui/navbar-menu";
+import { HoveredLink, Menu, MenuItem } from "./ui/navbar-menu";
 import { cn } from "@/utils/cn";
 import Link from "next/link";
-import { a } from "motion/react-client";
+// import { a } from "motion/react-client";
 
 const Navbar = ({ className }: { className?: string }) => {
 
@@ -14,7 +14,7 @@ const Navbar = ({ className }: { className?: string }) => {
             <Menu setActive={setActive}>
                 <Link href="/">
                     <MenuItem setActive={setActive} active={active} item="Home">
-                        test
+                        testr
                     </MenuItem>
                 </Link>
                 <MenuItem setActive={setActive} active={active} item="Our Courses">
