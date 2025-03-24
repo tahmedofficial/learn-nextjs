@@ -2,103 +2,103 @@
     "courses": [
         {
             "id": 1,
-            "title": "Introduction to Fashion Design",
-            "slug": "introduction-to-fashion-design",
-            "description": "Learn the fundamentals of fashion design, including sketching, fabric selection, and garment construction.",
+            "title": "Introduction to Music Theory",
+            "slug": "introduction-to-music-theory",
+            "description": "Learn the fundamentals of music theory, including notes, scales, chords, and rhythm.",
             "price": 99.99,
             "instructor": "Jane Doe",
             "isFeatured": true,
-            "image": "https://example.com/images/fashion-design.jpg"
+            "image": "https://example.com/images/music-theory.jpg"
         },
         {
             "id": 2,
-            "title": "Water Treatment Essentials",
-            "slug": "water-treatment-essentials",
-            "description": "A comprehensive guide to water purification, filtration techniques, and chemical treatments.",
+            "title": "Music Production Essentials",
+            "slug": "music-production-essentials",
+            "description": "A comprehensive guide to digital music production, recording, and mixing techniques.",
             "price": 149.99,
             "instructor": "John Smith",
             "isFeatured": false,
-            "image": "https://example.com/images/water-treatment.jpg"
+            "image": "https://example.com/images/music-production.jpg"
         },
         {
             "id": 3,
-            "title": "Sustainable Textile Production",
-            "slug": "sustainable-textile-production",
-            "description": "Explore sustainable practices in textile manufacturing, including eco-friendly dyes and waste management.",
+            "title": "Classical Piano Mastery",
+            "slug": "classical-piano-mastery",
+            "description": "Master classical piano techniques, including hand positioning, dynamics, and famous compositions.",
             "price": 129.99,
             "instructor": "Emily Brown",
             "isFeatured": true,
-            "image": "https://example.com/images/sustainable-textiles.jpg"
+            "image": "https://example.com/images/classical-piano.jpg"
         },
         {
             "id": 4,
-            "title": "Advanced Chemical Engineering",
-            "slug": "advanced-chemical-engineering",
-            "description": "An in-depth course on chemical processes, industrial applications, and safety measures.",
+            "title": "Advanced Music Composition",
+            "slug": "advanced-music-composition",
+            "description": "An in-depth course on songwriting, orchestration, and composing for different genres.",
             "price": 199.99,
             "instructor": "Dr. Alan Carter",
             "isFeatured": false,
-            "image": "https://example.com/images/chemical-engineering.jpg"
+            "image": "https://example.com/images/music-composition.jpg"
         },
         {
             "id": 5,
-            "title": "Digital Marketing for Beginners",
-            "slug": "digital-marketing-beginners",
-            "description": "Learn SEO, social media marketing, and paid advertising strategies to grow your business online.",
+            "title": "Guitar for Beginners",
+            "slug": "guitar-for-beginners",
+            "description": "Learn basic chords, strumming patterns, and simple songs to start playing the guitar.",
             "price": 89.99,
             "instructor": "Sophia Williams",
             "isFeatured": true,
-            "image": "https://example.com/images/digital-marketing.jpg"
+            "image": "https://example.com/images/guitar-beginners.jpg"
         },
         {
             "id": 6,
-            "title": "Garment Manufacturing Process",
-            "slug": "garment-manufacturing-process",
-            "description": "Understand the complete lifecycle of garment production from design to finished product.",
+            "title": "Music Business and Marketing",
+            "slug": "music-business-marketing",
+            "description": "Understand the music industry, branding, and marketing strategies for musicians.",
             "price": 159.99,
             "instructor": "Michael Lee",
             "isFeatured": false,
-            "image": "https://example.com/images/garment-manufacturing.jpg"
+            "image": "https://example.com/images/music-business.jpg"
         },
         {
             "id": 7,
-            "title": "Textile Chemistry and Dyes",
-            "slug": "textile-chemistry-dyes",
-            "description": "Dive deep into the chemistry behind textile processing, dyes, and finishing techniques.",
+            "title": "Jazz Improvisation Techniques",
+            "slug": "jazz-improvisation-techniques",
+            "description": "Dive deep into jazz theory, scales, and improvisation techniques for various instruments.",
             "price": 139.99,
             "instructor": "Dr. Rachel Green",
             "isFeatured": true,
-            "image": "https://example.com/images/textile-chemistry.jpg"
+            "image": "https://example.com/images/jazz-improvisation.jpg"
         },
         {
             "id": 8,
-            "title": "E-commerce Business Strategies",
-            "slug": "ecommerce-business-strategies",
-            "description": "Master the art of running a successful online store, from product selection to customer service.",
+            "title": "Vocal Training and Performance",
+            "slug": "vocal-training-performance",
+            "description": "Master vocal techniques, breathing exercises, and stage performance skills.",
             "price": 179.99,
             "instructor": "Daniel Adams",
             "isFeatured": false,
-            "image": "https://example.com/images/ecommerce.jpg"
+            "image": "https://example.com/images/vocal-training.jpg"
         },
         {
             "id": 9,
-            "title": "Sewing and Pattern Making",
-            "slug": "sewing-pattern-making",
-            "description": "Learn sewing techniques, pattern drafting, and fitting adjustments for custom garments.",
+            "title": "Drumming and Rhythm Mastery",
+            "slug": "drumming-rhythm-mastery",
+            "description": "Learn drumming techniques, time signatures, and rhythm patterns across different styles.",
             "price": 119.99,
             "instructor": "Laura Mitchell",
             "isFeatured": true,
-            "image": "https://example.com/images/sewing-patterns.jpg"
+            "image": "https://example.com/images/drumming-rhythm.jpg"
         },
         {
             "id": 10,
-            "title": "Industrial Water Management",
-            "slug": "industrial-water-management",
-            "description": "Understand water usage, treatment, and recycling techniques in industrial settings.",
+            "title": "Live Sound Engineering",
+            "slug": "live-sound-engineering",
+            "description": "Understand live sound setups, mixing consoles, and audio equipment for concerts.",
             "price": 189.99,
             "instructor": "Dr. Kevin Brown",
             "isFeatured": false,
-            "image": "https://example.com/images/industrial-water.jpg"
+            "image": "https://example.com/images/live-sound.jpg"
         }
     ]
 }
